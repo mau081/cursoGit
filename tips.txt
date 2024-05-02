@@ -1,0 +1,110 @@
+Mercado Libre
+usr:GOMA8954573
+pw:M3rc4d0290178*
+
+Amazon
+pw:Am4z0n290178*
+
+PORTAL HUMAN:
+https://portal4.payhuman.com/IND/login.ph#!/login
+
+usr:mgonzalezsan@minsait.com
+pw:human290178*
+
+Imputaciones:(diario)
+https://jira.indra.es/secure/Dashboard.jspa
+
+Dedicaciones:(todo el mes)
+https://www.indraweb.net/languages/es-es/Paginas/default.aspx
+
+Abeja Reyna:
+supermagon@yahoo.com.mx
+Ab3j4290178*
+
+Taller 1 Creación de interfaces gráficas con javaFX FXML Modelo Vista Controlador MVC 0 0:
+https://www.youtube.com/watch?v=uwHxL1--bnY
+
+CONFIGURACION DE PROXY:
+https://www.digitalocean.com/community/tutorials/java-httpurlconnection-example-java-http-request-get-post
+https://www.geeksforgeeks.org/setting-up-proxy-connection-to-a-system-in-java/
+https://www.youtube.com/watch?v=cxxn0yEnYRM
+https://docs.oracle.com/cd/E14571_01/web.1111/e13760/client.htm#WSRPC216
+https://gleichmann.wordpress.com/2007/11/24/how-to-call-a-webservice-with-spring-ws-through-a-proxy/
+https://kvimalan.wordpress.com/2019/01/30/proxy-server-configuration-spring-ws/
+
+TRADUCIR VIDEO YOUTUBE:
+https://www.youtube.com/watch?v=qwrqpgGqZnA
+https://chrome.google.com/webstore/detail/speak-subtitles-for-youtu/fjoiihoancoimepbgfcmopaciegpigpa/related
+
+CASAS DE BOLSA:
+
+CETES:
+usr: Setec78
+pw: Setec290178&
+
+GBM:
+
+gonzalezm081@gmail.com
+pw: Mbg29011978*
+
+authy:
+Authy290178*
+
+usr:
+finamex78
+pw:
+Fin290178*
+
+ azteca: 127431013157614684
+ finamex:616180050004693162
+ 
+SIMULADORES ITIL:
+https://indra.udemy.com/course/introduccion-a-la-gestion-de-servicios-con-itil-4/learn/lecture/23812964?start=0#overview
+https://indra.udemy.com/course/itil-4-foundation-practice-certification-exams-6-exams-q/learn/quiz/4585330/results?expanded=1021234104#overview
+
+SIMULADORES DEVOPS:
+https://www.daypo.com/simulador-examen-devops-essentials-professional-certificat.html
+
+SQL SERVER:
+cadena de conexion:
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+carpeta del registro de instalación de sql server:
+C:\Program Files\Microsoft SQL Server\160\Setup Bootstrap\Log\20240117_163153
+carpeta de medios de instalación:
+C:\SQL2022\Express_ENU
+carpeta de recursos de instalación:
+C:\Program Files\Microsoft SQL Server\160\SSEI\Resources
+
+CURSO MICROSERVICIOS:
+https://indra.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/8004660#overview
+
+Id Empleado:
+493100
+
+Plan de carrera:
+https://www.indraweb.net/languages/es-es/personas/desarrollodetalento/planesdecarrera/Paginas/rol.aspx
+
+Nuevo Password:53CR374290178#
+
+github:
+usr: gonzalezm081@gmail.com
+pw:617Hu8290178*
+username: mau081
+
+Dockers:
+email: gonzalezm081@gmail.com
+usr:docing724
+pw:D0cker290178*
+
+WARNING! Using --password via the CLI is insecure. Use --password-stdin
+
+shortcuts Intellij Idea:
+https://www.aluracursos.com/blog/intellij-idea-consejos-trucos-vida-cotidiana
+
+CURSO ANGULAR 17:
+https://indra.udemy.com/course/angular-spring/?utm_campaign=share-to-teams-from-product&utm_source=ms-teams
+
+DATABRICKS:
+link:https://community.cloud.databricks.com/login.html
+usr:gonzalezm081@gmail
+pw:D474bricks290178*
